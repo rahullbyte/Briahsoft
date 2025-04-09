@@ -76,7 +76,6 @@ npm run serve
 ├── server/                     # Backend (Express)
 │   ├── index.ts                # Express entry point
 │   └── vite.ts                 # Vite middleware setup
-├── public/                     # Static files (for prod)
 ├── vite.config.ts              # Vite configuration
 ├── tsconfig.json               # TypeScript config
 ├── package.json                # Project dependencies and scripts
