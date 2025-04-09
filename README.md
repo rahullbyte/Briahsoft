@@ -90,5 +90,5 @@ You can create a `.env` file at the root for secrets, API keys, and config value
 
 ```ini
 PORT=3000
-API_URL=https://your-api.com
+API_URL=https://briahsoft.onrender.com
 ```
